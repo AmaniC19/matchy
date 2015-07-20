@@ -1,4 +1,4 @@
-# Day 2 Project Outline
+# Matchy Project Outline
 
 - Welcome!
 
