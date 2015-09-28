@@ -58,7 +58,7 @@ If you don't know any of these concepts, see a Teacher or TA before starting thi
  8. [ ] `console.log` the length of `noises`
  9. [ ] `console.log` the last element in `noises` again without hard coding the index.
  10. [ ] `console.log` the whole array.
- 11. [ ]Does it look right?
+ 11. [ ] Does it look right?
  
 
 ## Step 3 - Combining Step 1 and 2
