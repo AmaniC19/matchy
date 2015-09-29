@@ -136,8 +136,8 @@ Imagine that our website has a profile page for each animal. On this profile pag
 ## Step 4 - Create
  1. Write a function called `create` that:
    - Takes 1 parameter, an object
-   - Checks that the object has a `name` property with a length < 0
-   - Checks that the object has a `species` property with a length < 0
+   - Checks that the object has a `name` property with a length > 0
+   - Checks that the object has a `species` property with a length > 0
    - Has a **unique** name, meaning no other animals have that name
    - Adds this new object to the animals array, **only** if all the other conditions pass.
    - Make sure it works
