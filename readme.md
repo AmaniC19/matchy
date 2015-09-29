@@ -115,32 +115,32 @@ Imagine that our website has a profile page for each animal. On this profile pag
 ##Step 1 - Search
  1. Open up `part2.js` in your editor.
  2. Implement a function called `search` that:
-   a. Takes 1 paramater, a name of an animal
-   b. Returns the animal's object if an animal with that name exists
-   c. Returns `null` if no animal with that name exists
+   - Takes 1 paramater, a name of an animal
+   - Returns the animal's object if an animal with that name exists
+   - Returns `null` if no animal with that name exists
  3. Use the search bar at the top of the page to make sure your function works.
 
 ##Step 2 - Edit
  1. Write a function called `edit` that:
-   a. Takes 2 parameters, a name of an animal and an object 
-   b. If an animal with that name exists, replace it's entire object with the new object
-   c. Otherwise do nothing
+   - Takes 2 parameters, a name of an animal and an object 
+   - If an animal with that name exists, replace it's entire object with the new object
+   - Otherwise do nothing
  2. Test it on the website
 
 ##Step 3 - Remove
  1. Write a function called `remove` that:
-   a. Takes 1 parameter, a name of an animal
-   b. If an animal with that name exists, remove it
+   - Takes 1 parameter, a name of an animal
+   - If an animal with that name exists, remove it
  2. Test that it works on the website
 
 ## Step 4 - Create
  1. Write a function called `create` that:
-   a. Takes 1 parameter, an object
-   b. Checks that the object has a `name` property with a length < 0
-   c. Checks that the object has a `species` property with a length < 0
-   d. Has a **unique** name, meaning no other animals have that name
-   e. Adds this new object to the animals array, **only** if all the other conditions pass.
-   f. Make sure it works
+   - Takes 1 parameter, an object
+   - Checks that the object has a `name` property with a length < 0
+   - Checks that the object has a `species` property with a length < 0
+   - Has a **unique** name, meaning no other animals have that name
+   - Adds this new object to the animals array, **only** if all the other conditions pass.
+   - Make sure it works
 
 This is called **data validation** and it's extremely important in web development!
  
