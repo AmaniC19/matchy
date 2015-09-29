@@ -11,6 +11,7 @@
  - looping
  - objects
  - arrays
+ - functions
 
 If you don't know any of these concepts, see a Teacher or TA before starting this project!
 
