@@ -102,10 +102,47 @@ Imagine that our website has a profile page for each animal. On this profile pag
  5. [ ] Write a function that takes our `animals` array and returns a random element using `Math.random`
  6. [ ] Using this function that you just created, get a random animal and add its `name` to `friends`.
  7. [ ] inspect `friends`.
- 8. [ ] add `friends` as a **property** of one of the animals in `animals`
+ 8. [ ] add `friends` as a **property** named `friends` on one of the animals in `animals`
  9. [ ] inspect your work.
  
 ## Step 8 - Take Another Break!!
 
 
+#Part 2
+**All work in this section will be done in part2.js**
+
+##Step 1 - Search
+ 1. Open up `part2.js` in your editor.
+ 2. Implement a function called `search` that:
+   a. Takes 1 paramater, a name of an animal
+   b. Returns the animal's object if an animal with that name exists
+   c. Returns `null` if no animal with that name exists
+ 3. Use the search bar at the top of the page to make sure your function works.
+
+##Step 2 - Edit
+ 1. Write a function called `edit` that:
+   a. Takes 2 parameters, a name of an animal and an object 
+   b. If an animal with that name exists, replace it's entire object with the new object
+   c. Otherwise do nothing
+ 2. Test it on the website
+
+##Step 3 - Remove
+ 1. Write a function called `remove` that:
+   a. Takes 1 parameter, a name of an animal
+   b. If an animal with that name exists, remove it
+ 2. Test that it works on the website
+
+## Step 4 - Create
+ 1. Write a function called `create` that:
+   a. Takes 1 parameter, an object
+   b. Checks that the object has a `name` property with a length < 0
+   c. Checks that the object has a `species` property with a length < 0
+   d. Has a **unique** name, meaning no other animals have that name
+   e. Adds this new object to the animals array, **only** if all the other conditions pass.
+   f. Make sure it works
+
+This is called **data validation** and it's extremely important in web development!
+ 
+## Step 5 - Break
+**Step back and think about how far you've come!!** We are doing really hard stuff and if you've gotten here you get it! This is awesome! It means you are well on your way to becoming a **pro web developer**. SWEET!
 
