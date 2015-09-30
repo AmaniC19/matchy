@@ -34,7 +34,7 @@ If you don't know any of these concepts, see a Teacher or TA before starting thi
  - Click on the `console` tab in the panel that opens up.
 
 # Part 1
-**All work in this section will be done in part1.js**
+**All work in this section will be done in my_code.js**
 
 ## Step 1 - Object Creation
  1. [ ] Open up part1.js
@@ -110,7 +110,7 @@ Imagine that our website has a profile page for each animal. On this profile pag
 
 
 #Part 2
-**All work in this section will be done in part2.js**
+**All work in this section will be done in my_code.js**
 
 ##Step 1 - Search
  1. Open up `part2.js` in your editor.
