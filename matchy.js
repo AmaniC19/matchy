@@ -63,7 +63,7 @@ $(function(){
         var oldName = window.___editingAnimal.name;
         var oldFriends = window.___editingAnimal.friends;
         window.edit(oldName, {
-            name: $(this).parents(".animal").find(".anSpeciesInp").val(),
+            name: $(this).parents(".animal").find(".anNameInp").val(),
             species: $(this).parents(".animal").find(".anSpeciesInp").val(),
             friends: oldFriends
         });
