@@ -18,7 +18,7 @@ If you don't know any of these concepts, see a Teacher or TA before starting thi
 # Setup
 ## Step 1 - Installation
  - open your cloud9 to your portfolio workspace.
- - in the terminal run `os install matchy`
+ - in the terminal run `os install` and choose matchy
  - if asked, input your github username and password
  - open the `projects/matchy` folder.
 
