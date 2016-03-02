@@ -37,7 +37,7 @@ If you don't know any of these concepts, see a Teacher or TA before starting thi
 **All work in this section will be done in my_code.js**
 
 ## Step 1 - Object Creation
- 1. [ ] Open up part1.js
+ 1. [ ] Open up my_code.js
  1. [ ] Create a variable named `animal` and assign it to an empty object.
  1. [ ] Using **dot notation** give `animal` a **property** named `species` with a value of any animal species.
  1. [ ] Using **bracket notation** give `animal` a **property** called `name` with a value of your animal`s name.
