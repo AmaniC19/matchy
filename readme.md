@@ -113,7 +113,7 @@ Imagine that our website has a profile page for each animal. On this profile pag
 **All work in this section will be done in my_code.js**
 
 ##Step 1 - Search
- 1. Open up `part2.js` in your editor.
+ 1. Open up `my_code.js` in your editor.
  2. Implement a function called `search` that:
    - Takes 1 paramater, a name of an animal
    - Returns the animal's object if an animal with that name exists
